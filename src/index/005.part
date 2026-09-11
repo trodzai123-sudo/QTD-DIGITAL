@@ -1,0 +1,28 @@
+    <div class="contact-points"><span>✓ Tư vấn nhu cầu trước khi báo giá</span><span>✓ Phạm vi công việc rõ ràng</span><span>✓ Ưu tiên giải pháp gọn và đủ dùng</span></div>
+        </div>
+
+        <form class="lead-form reveal delay-1" id="lead-form" novalidate>
+          <div class="form-head"><strong>NHẬN TƯ VẤN MIỄN PHÍ</strong><small>Thông tin chỉ dùng để liên hệ tư vấn dự án.</small></div>
+          <label>Họ và tên<input type="text" name="name" autocomplete="name" placeholder="Nguyễn Văn A" required /></label>
+          <label>Số điện thoại<input type="tel" name="phone" autocomplete="tel" placeholder="09xx xxx xxx" required pattern="[0-9+ .()-]{8,20}" /></label>
+          <label>Doanh nghiệp / Sản phẩm<input type="text" name="business" placeholder="VD: Nội thất, BĐS, máy móc..." /></label>
+          <label>Nhu cầu<select name="need" required><option value="">Chọn nhu cầu</option><option>Landing Page</option><option>Website doanh nghiệp</option><option>Landing Page + Google Ads</option><option>Tracking / Analytics</option><option>Khác</option></select></label>
+          <button class="btn btn-primary btn-block" type="submit">GỬI YÊU CẦU TƯ VẤN →</button>
+          <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div><a class="brand footer-brand" href="#top"><span class="brand-mark">Q</span><span class="brand-copy"><strong>QTD</strong><small>DIGITAL</small></span></a><p>Website • Landing Page • Performance Marketing</p></div>
+      <div><strong>DỊCH VỤ</strong><a href="#services">Landing Page</a><a href="#services">Website</a><a href="#services">Performance Marketing</a><a href="#services">Tracking & Data</a></div>
+      <div><strong>QTD DIGITAL</strong><a href="#work">Dự án</a><a href="#pricing">Bảng giá</a><a href="#process">Quy trình</a><a href="#contact">Liên hệ</a></div>
+    </div>
+    <div class="container footer-bottom"><span>© 2026 QTD Digital. All rights reserved.</span><span>Built for performance.</span></div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
