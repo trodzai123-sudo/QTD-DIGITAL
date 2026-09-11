@@ -1,0 +1,41 @@
+div class="process-step"><b>02</b><strong>STRUCTURE</strong><small>Hành trình, nội dung, CTA</small></div>
+          <div class="process-step"><b>03</b><strong>DESIGN</strong><small>UI, nhận diện, responsive</small></div>
+          <div class="process-step"><b>04</b><strong>BUILD</strong><small>Phát triển và tối ưu</small></div>
+          <div class="process-step"><b>05</b><strong>TRACKING</strong><small>Analytics và conversion</small></div>
+          <div class="process-step"><b>06</b><strong>LAUNCH</strong><small>QA và bàn giao</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section pricing" id="pricing">
+      <div class="container">
+        <div class="section-heading reveal"><span class="kicker">BẢNG GIÁ THAM KHẢO</span><h2>BẮT ĐẦU ĐÚNG<br><span>VỚI NHU CẦU HIỆN TẠI</span></h2><p>Giá cuối cùng phụ thuộc phạm vi và yêu cầu thực tế của từng dự án.</p></div>
+        <div class="pricing-grid">
+          <article class="price-card reveal"><div><span class="plan">START</span><h3>3.5M</h3><p>Dành cho cá nhân và doanh nghiệp mới bắt đầu.</p></div><ul><li>Landing Page 1 trang</li><li>Desktop + Mobile</li><li>Form nhận khách</li><li>Google Sheet</li><li>Kết nối domain</li><li>Tối ưu hình ảnh</li><li>2 lần chỉnh sửa</li></ul><a class="btn btn-outline" href="#contact">Chọn START</a></article>
+          <article class="price-card popular reveal delay-1"><span class="popular-badge">PHỔ BIẾN NHẤT</span><div><span class="plan">BUSINESS</span><h3>5.9M</h3><p>Dành cho doanh nghiệp chuẩn bị chạy quảng cáo.</p></div><ul><li>Toàn bộ gói START</li><li>Thiết kế theo nhận diện</li><li>Google Analytics 4</li><li>Google Tag Manager</li><li>Conversion Tracking</li><li>SEO On-page cơ bản</li><li>Tối ưu tốc độ</li></ul><a class="btn btn-primary" href="#contact">Chọn BUSINESS</a></article>
+          <article class="price-card reveal delay-2"><div><span class="plan">GROWTH</span><h3>8.9M<span>+</span></h3><p>Dành cho doanh nghiệp cần cả Landing Page và Ads.</p></div><ul><li>Toàn bộ gói BUSINESS</li><li>Setup Google Ads Search</li><li>Nghiên cứu từ khóa</li><li>Cấu trúc Campaign</li><li>Conversion Tracking</li><li>Landing theo chiến dịch</li><li>Hỗ trợ tối ưu giai đoạn đầu</li></ul><a class="btn btn-outline" href="#contact">Nhận tư vấn GROWTH</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section faq">
+      <div class="container faq-grid">
+        <div class="section-heading reveal"><span class="kicker">FAQ</span><h2>CÂU HỎI<br><span>THƯỜNG GẶP</span></h2><p>Những điều nên rõ ràng trước khi bắt đầu một dự án.</p></div>
+        <div class="accordion reveal delay-1">
+          <details><summary>Bao lâu thì hoàn thành một Landing Page?<span>+</span></summary><p>Tùy phạm vi và tốc độ cung cấp tài liệu. Thời gian cụ thể sẽ được chốt trong báo giá trước khi triển khai.</p></details>
+          <details><summary>Tôi chưa có nội dung thì QTD có hỗ trợ không?<span>+</span></summary><p>Có. QTD có thể hỗ trợ xây cấu trúc nội dung và đề xuất cách trình bày dựa trên sản phẩm, khách hàng mục tiêu và mục tiêu chiến dịch.</p></details>
+          <details><summary>Website có tối ưu cho điện thoại không?<span>+</span></summary><p>Có. Mobile là một phần bắt buộc trong quy trình kiểm tra trước khi bàn giao.</p></details>
+          <details><summary>Sau này tôi có sở hữu mã nguồn không?<span>+</span></summary><p>Phạm vi bàn giao mã nguồn, tài khoản và tài nguyên sẽ được ghi rõ trong báo giá/hợp đồng của từng dự án.</p></details>
+          <details><summary>Có hỗ trợ tên miền và hosting không?<span>+</span></summary><p>Có thể hỗ trợ kết nối và cấu hình cơ bản. Chi phí dịch vụ bên thứ ba được tách riêng nếu phát sinh.</p></details>
+          <details><summary>QTD có cam kết doanh số không?<span>+</span></summary><p>Không cam kết một con số doanh thu cố định vì kết quả còn phụ thuộc sản phẩm, giá, thị trường, ngân sách và đội sales. QTD chịu trách nhiệm với phần triển khai kỹ thuật, tracking và tối ưu trong phạm vi dịch vụ.</p></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section contact section-dark" id="contact">
+      <div class="container contact-grid">
+        <div class="contact-copy reveal">
+          <span class="kicker light">BẮT ĐẦU DỰ ÁN</span>
+          <h2>BẠN ĐANG CÓ MỘT Ý TƯỞNG<br><span>NHƯNG CHƯA BIẾT BẮT ĐẦU TỪ ĐÂU?</span></h2>
+          <p>Hãy mô tả ngắn sản phẩm hoặc nhu cầu của bạn. QTD Digital sẽ đề xuất hướng triển khai phù hợp trước khi bắt đầu.</p>
+       
