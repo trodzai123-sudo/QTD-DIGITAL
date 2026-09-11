@@ -4,36 +4,59 @@ Website static V1 cho QTD Digital, định vị:
 
 **Website • Landing Page • Performance Marketing**
 
-## File
+## Cấu trúc source
 
-- `index.html` — toàn bộ cấu trúc trang chủ
-- `styles.css` — giao diện responsive desktop/mobile
-- `app.js` — menu mobile, reveal animation, validation form demo
+Để giữ nguyên nội dung UTF-8 khi đẩy source qua connector, hai file lớn được lưu theo từng phần:
 
-## Chạy local
+- `src/index/*.part` — HTML nguồn
+- `src/styles/*.part` — CSS nguồn
+- `app.js` — menu mobile, reveal animation và validation form demo
+- `favicon.svg` — favicon QTD Digital
+- `_headers` — security/cache headers cho Cloudflare Pages
+- `build.mjs` — ghép các phần nguồn thành website deploy
 
-Có thể mở trực tiếp `index.html` hoặc chạy một static server, ví dụ:
+## Build local
 
 ```bash
+npm run build
+```
+
+Sau khi build, website hoàn chỉnh nằm trong thư mục `dist/`:
+
+- `dist/index.html`
+- `dist/styles.css`
+- `dist/app.js`
+- `dist/favicon.svg`
+- `dist/_headers`
+
+Có thể preview bằng static server:
+
+```bash
+cd dist
 python3 -m http.server 8080
 ```
 
 Sau đó truy cập `http://localhost:8080`.
 
-## Deploy
+## Deploy Cloudflare Pages
 
-Phù hợp với GitHub + Cloudflare Pages hoặc bất kỳ static hosting nào.
+Kết nối repo này với Cloudflare Pages và dùng:
+
+- Framework preset: `None`
+- Build command: `npm run build`
+- Build output directory: `dist`
+
+Không cần biến môi trường hoặc dependency bên ngoài cho V1.
 
 ## Việc cần làm trước khi chạy Ads
 
-1. Tạo repo riêng `qtd-digital` và push source.
-2. Gắn domain chính thức.
-3. Kết nối form thật về Google Sheet/CRM.
-4. Gắn Google Tag Manager + GA4.
-5. Tạo conversion event cho form submit / click gọi / Zalo (nếu dùng).
-6. Thay các mockup portfolio bằng screenshot dự án thật đã được phép sử dụng.
-7. Bổ sung thông tin liên hệ, chính sách bảo mật và thông tin pháp lý cần thiết.
-8. Chạy Lighthouse trên mobile và sửa lỗi hiệu năng/accessibility trước khi chạy Ads.
+1. Gắn domain chính thức.
+2. Kết nối form thật về Google Sheet/CRM.
+3. Gắn Google Tag Manager + GA4.
+4. Tạo conversion event cho form submit / click gọi / Zalo (nếu dùng).
+5. Thay các mockup portfolio bằng screenshot dự án thật đã được phép sử dụng.
+6. Bổ sung thông tin liên hệ, chính sách bảo mật và thông tin pháp lý cần thiết.
+7. Chạy Lighthouse trên mobile và sửa lỗi hiệu năng/accessibility trước khi chạy Ads.
 
 ## Lưu ý
 
