@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="QTD Digital thiết kế Landing Page, Website và Performance Marketing cho doanh nghiệp nhỏ, startup và thương hiệu đang cần tăng trưởng online." />
+  <meta name="theme-color" content="#07111F" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="QTD Digital — Website • Landing Page • Performance Marketing" />
+  <meta property="og:description" content="Thiết kế Landing Page, Website và Performance Marketing cho doanh nghiệp muốn bắt đầu hoặc tăng trưởng online." />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <title>QTD Digital — Website • Landing Page • Performance Marketing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Bỏ qua đến nội dung chính</a>
+
+  <header class="site-header" id="top">
+    <div class="container nav-wrap">
+      <a class="brand" href="#top" aria-label="QTD Digital trang chủ">
+        <span class="brand-mark" aria-hidden="true">Q</span>
+        <span class="brand-copy"><strong>QTD</strong><small>DIGITAL</small></span>
+      </a>
+
+      <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav class="main-nav" id="main-nav" aria-label="Điều hướng chính">
+        <a href="#services">Dịch vụ</a>
+        <a href="#work">Dự án</a>
+        <a href="#pricing">Bảng giá</a>
+        <a href="#process">Quy trình</a>
+        <a href="#contact">Liên hệ</a>
+        <a class="btn btn-sm btn-primary nav-cta" href="#contact">Nhận tư vấn</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero section-dark">
+      <div class="container hero-grid">
+        <div class="hero-copy reveal">
+          <div class="eyebrow"><span class="dot"></span> WEB • ADS • TRACKING</div>
+          <h1>XÂY NỀN TẢNG SỐ<br>GIÚP DOANH NGHIỆP<br><span>TÌM KIẾM KHÁCH HÀNG</span></h1>
+          <p class="hero-lead">Landing Page, Website và Performance Marketing dành cho doanh nghiệp muốn bắt đầu hoặc tăng trưởng online.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#contact">Nhận tư vấn miễn phí</a>
+            <a class="btn btn-ghost" href="#work">Xem dự án <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="capabilities" aria-label="Năng lực chính">
+            <span>Landing Page</span><i></i><span>Website</span><i></i><span>Google Ads</span><i></i><span>Tracking</span>
+          </div>
+        </div>
+
+        <div class="hero-visual reveal delay-1" aria-label="Minh họa website và hệ thống tracking">
+          <div class="browser-card">
+            <div class="browser-top"><span></span><span></span><span></span><em>qtd.digital</em></div>
+            <div class="browser-body">
+              <div class="mini-sidebar">
+                <div class="mini-logo">Q</div>
+                <div class="mini-line active"></div>
+                <div class="mini-line"></div>
+                <div class="mini-line short"></div>
+              </div>
+              <div class="mini-page">
+                <div class="mini-badge">PERFORMANCE</div>
+                <div class="mini-title"></div>
+                <div class="mini-title short"></div>
+                <div class="mini-text"></div>
+                <div class="mini-text short"></div>
+                <div class="mini-buttons"><span></span><span></span></div>
+                <div class="mini-chart">
+                  <svg viewBox="0 0 320 100" role="img" aria-label="Biểu đồ tăng trưởng minh họa">
+                    <path d="M0,82 C45,80 62,69 90,72 C118,75 138,50 164,56 C198,64 205,26 235,34 C260,40 278,15 320,14" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="phone-card">
+            <div class="phone-notch"></div>
+            <div class="phone-screen">
+              <div class="phone-brand"></div>
+              <div cl
