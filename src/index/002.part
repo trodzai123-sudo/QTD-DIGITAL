@@ -1,0 +1,61 @@
+ass="phone-h1"></div>
+              <div class="phone-h1 short"></div>
+              <div class="phone-p"></div>
+              <div class="phone-cta"></div>
+              <div class="phone-panel"></div>
+            </div>
+          </div>
+
+          <div class="floating-card fc-one"><span class="status-icon">✓</span><div><strong>Conversion Tracking</strong><small>Đang hoạt động</small></div></div>
+          <div class="floating-card fc-two"><span class="status-icon">✓</span><div><strong>Mobile Optimized</strong><small>Responsive</small></div></div>
+          <div class="floating-card fc-three"><span class="status-icon">↗</span><div><strong>Lead → Google Sheet</strong><small>Realtime</small></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="industry-strip" aria-label="Nhóm ngành phù hợp">
+      <div class="container strip-inner">
+        <span class="strip-label">PHÙ HỢP CHO</span>
+        <div class="strip-items"><span>Bất động sản</span><span>B2B</span><span>E-commerce</span><span>Doanh nghiệp nhỏ</span><span>Sản phẩm mới</span></div>
+      </div>
+    </section>
+
+    <section class="section problems">
+      <div class="container">
+        <div class="section-heading reveal">
+          <span class="kicker">VẤN ĐỀ THƯỜNG GẶP</span>
+          <h2>WEBSITE CÓ THỂ ĐẸP.<br><span>NHƯNG ĐẸP CHƯA ĐỦ.</span></h2>
+          <p>Một website chỉ có giá trị khi giúp khách hiểu sản phẩm, thực hiện hành động và để doanh nghiệp đo lường được kết quả.</p>
+        </div>
+
+        <div class="problem-grid">
+          <article class="problem-card reveal"><b>01</b><h3>Có sản phẩm nhưng chưa có website</h3><p>Khách hàng không có nơi đủ rõ ràng để tìm hiểu và tin tưởng doanh nghiệp.</p></article>
+          <article class="problem-card reveal delay-1"><b>02</b><h3>Website Mobile khó sử dụng</h3><p>Bố cục vỡ, chữ nhỏ, CTA khó bấm khiến người dùng rời trang sớm.</p></article>
+          <article class="problem-card reveal delay-2"><b>03</b><h3>Chạy Ads nhưng Landing chuyển đổi thấp</h3><p>Traffic có nhưng trang không dẫn khách đến hành động phù hợp.</p></article>
+          <article class="problem-card reveal"><b>04</b><h3>Không biết khách hàng đến từ đâu</h3><p>Thiếu Analytics và Conversion Tracking khiến ngân sách khó tối ưu.</p></article>
+          <article class="problem-card reveal delay-1"><b>05</b><h3>Không lưu được data khách</h3><p>Lead nằm rải rác trong tin nhắn, gây chậm tư vấn và thất thoát cơ hội.</p></article>
+          <article class="problem-card reveal delay-2"><b>06</b><h3>Website chậm và khó quản lý</h3><p>Tài nguyên nặng, cấu trúc rối và nhiều thành phần dư làm trải nghiệm kém.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section services" id="services">
+      <div class="container">
+        <div class="section-heading split-heading reveal">
+          <div><span class="kicker">DỊCH VỤ</span><h2>TỪ WEBSITE<br><span>ĐẾN KHÁCH HÀNG</span></h2></div>
+          <p>QTD Digital xây từng phần của hành trình online thành một hệ thống có thể vận hành, quảng cáo và đo lường.</p>
+        </div>
+
+        <div class="service-grid">
+          <article class="service-card featured reveal"><div class="service-num">01</div><div class="service-icon">↗</div><h3>LANDING PAGE</h3><p>Landing Page tập trung vào một mục tiêu rõ ràng: giúp khách hiểu sản phẩm và thực hiện hành động.</p><a href="#pricing">Xem gói dịch vụ →</a></article>
+          <article class="service-card reveal delay-1"><div class="service-num">02</div><div class="service-icon">⌘</div><h3>WEBSITE</h3><p>Website doanh nghiệp hiện đại, responsive và được tổ chức để khách nhanh chóng hiểu giá trị thương hiệu.</p><a href="#contact">Trao đổi dự án →</a></article>
+          <article class="service-card reveal"><div class="service-num">03</div><div class="service-icon">◒</div><h3>PERFORMANCE MARKETING</h3><p>Google Ads và Meta Ads được triển khai theo mục tiêu kinh doanh thay vì chỉ tập trung vào lượt click.</p><a href="#contact">Nhận tư vấn →</a></article>
+          <article class="service-card reveal delay-1"><div class="service-num">04</div><div class="service-icon">◎</div><h3>TRACKING & DATA</h3><p>GA4, GTM, Conversion Tracking, Form và Google Sheet giúp doanh nghiệp nhìn thấy hành trình khách hàng.</p><a href="#contact">Tìm hiểu thêm →</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-dark journey">
+      <div class="container">
+        <div class="journey-intro reveal">
+          <s
