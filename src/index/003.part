@@ -1,0 +1,48 @@
+pan class="kicker light">CÁCH TIẾP CẬN</span>
+          <h2>KHÔNG CHỈ XÂY WEBSITE.<br><span>CHÚNG TÔI XÂY HÀNH TRÌNH KHÁCH HÀNG.</span></h2>
+        </div>
+        <div class="journey-flow reveal delay-1">
+          <div class="flow-node"><strong>TRAFFIC</strong><small>Google / Meta / Organic</small></div><span>→</span>
+          <div class="flow-node"><strong>LANDING</strong><small>Nội dung & trải nghiệm</small></div><span>→</span>
+          <div class="flow-node"><strong>CONVERSION</strong><small>CTA / Form / Call</small></div><span>→</span>
+          <div class="flow-node"><strong>DATA</strong><small>GA4 / GTM / Sheet</small></div><span>→</span>
+          <div class="flow-node"><strong>SALES</strong><small>Tư vấn & chốt khách</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section work" id="work">
+      <div class="container">
+        <div class="section-heading reveal"><span class="kicker">PORTFOLIO</span><h2>DỰ ÁN<br><span>TIÊU BIỂU</span></h2><p>Case study được trình bày theo đúng phạm vi đã thực hiện, không dùng số liệu thành tích không thể kiểm chứng.</p></div>
+
+        <article class="project-row reveal">
+          <div class="project-visual project-green">
+            <div class="project-browser"><div class="project-bar"><i></i><i></i><i></i></div><div class="project-content"><span class="project-chip">IJC GREEN CITY</span><h4>Không gian sống xanh<br>cho thế hệ mới</h4><div class="project-lines"></div><button>NHẬN THÔNG TIN</button></div></div>
+            <div class="project-phone"><div><span></span><h5>IJC GREEN CITY</h5><p></p><button></button></div></div>
+          </div>
+          <div class="project-copy"><span class="project-type">REAL ESTATE / LANDING PAGE</span><h3>IJC GREEN CITY</h3><p>Landing Page bất động sản tập trung vào trải nghiệm Mobile, tốc độ tải và hành trình từ CTA đến form thu Lead.</p><div class="tag-list"><span>UX/UI</span><span>Mobile</span><span>Lead Form</span><span>Performance</span></div><a href="#contact">Xem Case Study →</a></div>
+        </article>
+
+        <article class="project-row reverse reveal">
+          <div class="project-visual project-industrial">
+            <div class="project-browser"><div class="project-bar"><i></i><i></i><i></i></div><div class="project-content"><span class="project-chip">TONGBAO</span><h4>Thiết bị công nghiệp<br>cho doanh nghiệp</h4><div class="machine-art"><div class="machine-body"></div><div class="machine-head"></div><div class="laser"></div></div><button>NHẬN TƯ VẤN KỸ THUẬT</button></div></div>
+            <div class="project-phone"><div><span></span><h5>TONGBAO</h5><p></p><button></button></div></div>
+          </div>
+          <div class="project-copy"><span class="project-type">B2B / INDUSTRIAL</span><h3>TONGBAO</h3><p>Website/Landing Page cho máy móc B2B: tổ chức thông tin kỹ thuật, tối ưu hình ảnh sản phẩm, Mobile UX và luồng yêu cầu tư vấn.</p><div class="tag-list"><span>B2B</span><span>Product UX</span><span>Mobile</span><span>Speed</span></div><a href="#contact">Xem Case Study →</a></div>
+        </article>
+
+        <article class="project-row reveal">
+          <div class="project-visual project-commerce">
+            <div class="commerce-card"><div class="commerce-top"><span>PERFORMANCE LANDING</span><strong>01</strong></div><h4>Test thị trường.<br>Thu lead. Đo lường.</h4><div class="metric-grid"><div><small>TRACKING</small><b>ON</b></div><div><small>FORM</small><b>LIVE</b></div><div><small>MOBILE</small><b>READY</b></div></div><div class="chart-bars"><i></i><i></i><i></i><i></i><i></i><i></i></div></div>
+          </div>
+          <div class="project-copy"><span class="project-type">E-COMMERCE / PERFORMANCE</span><h3>PERFORMANCE LANDING PAGE</h3><p>Landing Page dùng để test sản phẩm và chiến dịch: cấu trúc bán hàng, thu data, chuẩn bị conversion tracking và tối ưu Mobile.</p><div class="tag-list"><span>Sales Structure</span><span>Tracking</span><span>Lead Gen</span><span>Ads Ready</span></div><a href="#contact">Trao đổi dự án tương tự →</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section process" id="process">
+      <div class="container">
+        <div class="section-heading reveal"><span class="kicker">QUY TRÌNH</span><h2>TỪ Ý TƯỞNG ĐẾN<br><span>WEBSITE HOÀN CHỈNH</span></h2></div>
+        <div class="process-line reveal delay-1">
+          <div class="process-step"><b>01</b><strong>DISCOVERY</strong><small>Sản phẩm, khách hàng, mục tiêu</small></div>
+          <
